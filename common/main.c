@@ -448,7 +448,7 @@ void main_loop (void)
 	}
 #endif
 
-	FriendlyARMMenu();
+	//FriendlyARMMenu();
 	/*
 	 * Main Loop for Monitor Command Processing
 	 */
